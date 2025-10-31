@@ -1,6 +1,4 @@
-# Proyecto TDD - Registro de Votantes para una Registraduría
-
-**Autor:** Santiago Pulido
+# Proyecto TDD - Registro de Votantes para una Registraduría Santiago Pulido
 
 ## Descripción
 Proyecto de ejemplo para aplicar TDD (Red → Green → Refactor) y probar reglas de negocio (dominio) aisladas. 
@@ -57,6 +55,3 @@ Se han creado pruebas unitarias que cubren las clases de equivalencia anteriorme
 ## Defectos
 Se incluye el archivo `defectos.md` para registrar fallos detectados por las pruebas.
 
-## Notas finales
-- Este repositorio está preparado para generar reportes de cobertura con JaCoCo.  
-- Nombre del autor actualizado: Santiago Pulido.
